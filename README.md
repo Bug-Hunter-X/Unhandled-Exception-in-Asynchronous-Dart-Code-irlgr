@@ -1,0 +1,2 @@
+# Unhandled Exception in Asynchronous Dart Code
+This repository demonstrates a common issue in asynchronous Dart programming: handling exceptions in Futures. The `bug.dart` file shows the initial code with incomplete exception handling. The improved solution is in `bugSolution.dart`.
